@@ -1,0 +1,17 @@
+[server]
+port = 3002
+address = "0.0.0.0"
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "dark"
+primaryColor = "#5E6AD2"
+backgroundColor = "#0D0D0D"
+secondaryBackgroundColor = "#141414"
+textColor = "#FFFFFF"
+font = "sans serif"
